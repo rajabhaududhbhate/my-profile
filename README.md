@@ -5,3 +5,4 @@ Technology:
     2. CSS
     3. Bootstrap
     4. Angular
+    5. Javascript
